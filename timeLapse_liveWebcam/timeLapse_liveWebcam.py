@@ -7,7 +7,7 @@ import shutil
 #from win32con import *
 #from PixarImagePlugin import Image
 
-DEBUG = 1;
+DEBUG = 0;
 
 webcamImage = "liveCapture.jpg";
 updateTime = 10 * 60; #Num of seconds to update

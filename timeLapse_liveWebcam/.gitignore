@@ -1,0 +1,4 @@
+timeLapseImages
+.*
+*.jpg
+!.gitignore

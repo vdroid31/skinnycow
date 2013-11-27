@@ -2,4 +2,3 @@ timeLapseImages
 .*
 *.jpg
 !.gitignore
-Quiet.exe
